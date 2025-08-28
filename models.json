@@ -1,4 +1,8 @@
 {
+  "illustrij_v17.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/illustrij_v17.safetensors",
+    "path": "./models/checkpoints/illustrij_v17.safetensors"
+  },
   "ilustmix_v9.safetensors": {
     "url": "https://huggingface.co/taragi/likedmodels/resolve/main/ilustmix_v9.safetensors",
     "path": "./models/checkpoints/ilustmix_v9.safetensors"
