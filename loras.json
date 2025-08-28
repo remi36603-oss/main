@@ -1,0 +1,146 @@
+{
+  "748cmSDXL.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/748cmSDXL.safetensors",
+    "path": "./models/loras/748cmSDXL.safetensors"
+  },
+  "96YOTTEA-WAI.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/96YOTTEA-WAI.safetensors",
+    "path": "./models/loras/96YOTTEA-WAI.safetensors"
+  },
+  "ATNR_V1.1_Lokr_f4_warmup_stable_decay.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/ATNR_V1.1_Lokr_f4_warmup_stable_decay.safetensors",
+    "path": "./models/loras/ATNR_V1.1_Lokr_f4_warmup_stable_decay.safetensors"
+  },
+  "Blood_Magic_-_Grimoire-000011.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/Blood_Magic_-_Grimoire-000011.safetensors",
+    "path": "./models/loras/Blood_Magic_-_Grimoire-000011.safetensors"
+  },
+  "DetailerILv2-000008.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/DetailerILv2-000008.safetensors",
+    "path": "./models/loras/DetailerILv2-000008.safetensors"
+  },
+  "Detailer_NoobAI_Incrs_v1.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/Detailer_NoobAI_Incrs_v1.safetensors",
+    "path": "./models/loras/Detailer_NoobAI_Incrs_v1.safetensors"
+  },
+  "Dramatic Lighting Slider.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/Dramatic%20Lighting%20Slider.safetensors",
+    "path": "./models/loras/Dramatic Lighting Slider.safetensors"
+  },
+  "GraphiteSketch_v3_Buns.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/GraphiteSketch_v3_Buns.safetensors",
+    "path": "./models/loras/GraphiteSketch_v3_Buns.safetensors"
+  },
+  "Hyperrealistic_illustrious.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/Hyperrealistic_illustrious.safetensors",
+    "path": "./models/loras/Hyperrealistic_illustrious.safetensors"
+  },
+  "ILXL_Realism_Slider_V.1.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/ILXL_Realism_Slider_V.1.safetensors",
+    "path": "./models/loras/ILXL_Realism_Slider_V.1.safetensors"
+  },
+  "MGE_V6.1_IL_Final_R1.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/MGE_V6.1_IL_Final_R1.safetensors",
+    "path": "./models/loras/MGE_V6.1_IL_Final_R1.safetensors"
+  },
+  "MoriiMee_Gothic_Niji_Style_Illustrious_r1.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/MoriiMee_Gothic_Niji_Style_Illustrious_r1.safetensors",
+    "path": "./models/loras/MoriiMee_Gothic_Niji_Style_Illustrious_r1.safetensors"
+  },
+  "NewFantasyCoreV4_ILL_by_VisionaryAI_.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/NewFantasyCoreV4_ILL_by_VisionaryAI_.safetensors",
+    "path": "./models/loras/NewFantasyCoreV4_ILL_by_VisionaryAI_.safetensors"
+  },
+  "PowerPuffMixLora.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/PowerPuffMixLora.safetensors",
+    "path": "./models/loras/PowerPuffMixLora.safetensors"
+  },
+  "Semi-realism_illustrious.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/Semi-realism_illustrious.safetensors",
+    "path": "./models/loras/Semi-realism_illustrious.safetensors"
+  },
+  "Sinozick_style-.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/Sinozick_style-.safetensors",
+    "path": "./models/loras/Sinozick_style-.safetensors"
+  },
+  "SmoothMix_Illustrious_v2.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/SmoothMix_Illustrious_v2.safetensors",
+    "path": "./models/loras/SmoothMix_Illustrious_v2.safetensors"
+  },
+  "Smooth_Booster_v3.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/Smooth_Booster_v3.safetensors",
+    "path": "./models/loras/Smooth_Booster_v3.safetensors"
+  },
+  "aidmaRealisticSkin-IL-v0.1.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/aidmaRealisticSkin-IL-v0.1.safetensors",
+    "path": "./models/loras/aidmaRealisticSkin-IL-v0.1.safetensors"
+  },
+  "detailer.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/detailer.safetensors",
+    "path": "./models/loras/detailer.safetensors"
+  },
+  "engraved v2.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/engraved%20v2.safetensors",
+    "path": "./models/loras/engraved v2.safetensors"
+  },
+  "est2_r1.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/est2_r1.safetensors",
+    "path": "./models/loras/est2_r1.safetensors"
+  },
+  "g0th1c2XLP.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/g0th1c2XLP.safetensors",
+    "path": "./models/loras/g0th1c2XLP.safetensors"
+  },
+  "iLLMythD4rkL1nes.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/iLLMythD4rkL1nes.safetensors",
+    "path": "./models/loras/iLLMythD4rkL1nes.safetensors"
+  },
+  "iLLMythSmo0thL1nes.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/iLLMythSmo0thL1nes.safetensors",
+    "path": "./models/loras/iLLMythSmo0thL1nes.safetensors"
+  },
+  "illmythg0thicl1nes.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/illmythg0thicl1nes.safetensors",
+    "path": "./models/loras/illmythg0thicl1nes.safetensors"
+  },
+  "illmythm4gicall1nes.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/illmythm4gicall1nes.safetensors",
+    "path": "./models/loras/illmythm4gicall1nes.safetensors"
+  },
+  "illustrious_best_quality_v1.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/illustrious_best_quality_v1.safetensors",
+    "path": "./models/loras/illustrious_best_quality_v1.safetensors"
+  },
+  "ma1ma1helmes_b-000014.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/ma1ma1helmes_b-000014.safetensors",
+    "path": "./models/loras/ma1ma1helmes_b-000014.safetensors"
+  },
+  "p0nyd1sney1ncasev1x0n2-v2.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/p0nyd1sney1ncasev1x0n2-v2.safetensors",
+    "path": "./models/loras/p0nyd1sney1ncasev1x0n2-v2.safetensors"
+  },
+  "plaijful.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/plaijful.safetensors",
+    "path": "./models/loras/plaijful.safetensors"
+  },
+  "ppw_v8_Illuv2stable_128.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/ppw_v8_Illuv2stable_128.safetensors",
+    "path": "./models/loras/ppw_v8_Illuv2stable_128.safetensors"
+  },
+  "rdtdrp.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/rdtdrp.safetensors",
+    "path": "./models/loras/rdtdrp.safetensors"
+  },
+  "realistic filter [IL].safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/realistic%20filter%20%5BIL%5D.safetensors",
+    "path": "./models/loras/realistic filter [IL].safetensors"
+  },
+  "rimixO.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/rimixO.safetensors",
+    "path": "./models/loras/rimixO.safetensors"
+  },
+  "sdpllg.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/sdpllg.safetensors",
+    "path": "./models/loras/sdpllg.safetensors"
+  }
+}

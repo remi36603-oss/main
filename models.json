@@ -1,0 +1,74 @@
+{
+  "ilustmix_v9.safetensors": {
+    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/ilustmix_v9.safetensors",
+    "path": "./models/checkpoints/ilustmix_v9.safetensors"
+  },
+  "JANKUV5NSFWTrainedNoobai_v40.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/JANKUV5NSFWTrainedNoobai_v40.safetensors",
+    "path": "./models/checkpoints/JANKUV5NSFWTrainedNoobai_v40.safetensors"
+  },
+  "betterDaysIllustriousXL_illuXLV02BAKEDVAE.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/betterDaysIllustriousXL_illuXLV02BAKEDVAE.safetensors",
+    "path": "./models/checkpoints/betterDaysIllustriousXL_illuXLV02BAKEDVAE.safetensors"
+  },
+  "hassakuXLIllustrious_v30.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/hassakuXLIllustrious_v30.safetensors",
+    "path": "./models/checkpoints/hassakuXLIllustrious_v30.safetensors"
+  },
+  "hyphoriaIlluNAI_v001.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/hyphoriaIlluNAI_v001.safetensors",
+    "path": "./models/checkpoints/hyphoriaIlluNAI_v001.safetensors"
+  },
+  "plantMilkModelSuite_walnut.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/plantMilkModelSuite_walnut.safetensors",
+    "path": "./models/checkpoints/plantMilkModelSuite_walnut.safetensors"
+  },
+  "prefectIllustriousXL_v3.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/prefectIllustriousXL_v3.safetensors",
+    "path": "./models/checkpoints/prefectIllustriousXL_v3.safetensors"
+  },
+  "prefectiousXLNSFW_v10.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/prefectiousXLNSFW_v10.safetensors",
+    "path": "./models/checkpoints/prefectiousXLNSFW_v10.safetensors"
+  },
+  "perfectdeliberate_XL.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/perfectdeliberate_XL.safetensors",
+    "path": "./models/checkpoints/perfectdeliberate_XL.safetensors"
+  },
+  "riMixPONYIllustrious_riMix.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/riMixPONYIllustrious_riMix.safetensors",
+    "path": "./models/checkpoints/riMixPONYIllustrious_riMix.safetensors"
+  },
+  "ghostmix_v20Bakedvae.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/ghostmix_v20Bakedvae.safetensors",
+    "path": "./models/checkpoints/ghostmix_v20Bakedvae.safetensors"
+  },
+  "realcartoon3d_v18.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/realcartoon3d_v18.safetensors",
+    "path": "./models/checkpoints/realcartoon3d_v18.safetensors"
+  },
+  "waiNsfwIllustrious_v1.4.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/waiNsfwIllustrious_v1.4.safetensors",
+    "path": "./models/checkpoints/waiNsfwIllustrious_v1.4.safetensors"
+  },
+  "realisticVisionV60B1_v51HyperVAE.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/realisticVisionV60B1_v51HyperVAE.safetensors",
+    "path": "./models/checkpoints/realisticVisionV60B1_v51HyperVAE.safetensors"
+  },
+  "photon_v1.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/photon_v1.safetensors",
+    "path": "./models/checkpoints/photon_v1.safetensors"
+  },
+  "babesIllustriousBy_v50FP16.safetensors": {
+    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/babesIllustriousBy_v50FP16.safetensors",
+    "path": "./models/checkpoints/babesIllustriousBy_v50FP16.safetensors"
+  },
+  "dreamshaper_8.safetensors": {
+    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/dreamshaper_8.safetensors",
+    "path": "./models/checkpoints/dreamshaper_8.safetensors"
+  },
+  "juggernautXL_ragnarokBy.safetensors": {
+    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/juggernautXL_ragnarokBy.safetensors",
+    "path": "./models/checkpoints/juggernautXL_ragnarokBy.safetensors"
+  }
+}
