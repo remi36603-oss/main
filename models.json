@@ -1,7 +1,75 @@
 {
+  "amanatsuIllustrious_v11.safetensors": {
+    "url": "https://huggingface.co/sheffieldamanda/mymodels/resolve/main/amanatsuIllustrious_v11.safetensors",
+    "path": "./models/checkpoints/amanatsuIllustrious_v11.safetensors"
+  },
+  "aMixIllustrious_aMix.safetensors": {
+    "url": "https://huggingface.co/sheffieldamanda/mymodels/resolve/main/aMixIllustrious_aMix.safetensors",
+    "path": "./models/checkpoints/aMixIllustrious_aMix.safetensors"
+  },
+  "anbanIllus_shinv1DMD2.safetensors": {
+    "url": "https://huggingface.co/sheffieldamanda/mymodels/resolve/main/anbanIllus_shinv1DMD2.safetensors",
+    "path": "./models/checkpoints/anbanIllus_shinv1DMD2.safetensors"
+  },
+  "autismmixSDXL_autismmixPony.safetensors": {
+    "url": "https://huggingface.co/sheffieldamanda/mymodels/resolve/main/autismmixSDXL_autismmixPony.safetensors",
+    "path": "./models/checkpoints/autismmixSDXL_autismmixPony.safetensors"
+  },
+  "babesIllustriousBy_v50FP16.safetensors": {
+    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/babesIllustriousBy_v50FP16.safetensors",
+    "path": "./models/checkpoints/babesIllustriousBy_v50FP16.safetensors"
+  },
+  "betterDaysIllustriousXL_illuXLV02BAKEDVAE.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/betterDaysIllustriousXL_illuXLV02BAKEDVAE.safetensors",
+    "path": "./models/checkpoints/betterDaysIllustriousXL_illuXLV02BAKEDVAE.safetensors"
+  },
+  "bismuthIllustrious_v40.safetensors": {
+    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/bismuthIllustrious_v40.safetensors",
+    "path": "./models/checkpoints/bismuthIllustrious_v40.safetensors"
+  },
+  "brdrXL_v03b.safetensors": {
+    "url": "https://huggingface.co/sheffieldamanda/mymodels/resolve/main/brdrXL_v03b.safetensors",
+    "path": "./models/checkpoints/brdrXL_v03b.safetensors"
+  },
+  "BSSEquinoxILSemi_v20.safetensors": {
+    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/BSSEquinoxILSemi_v20.safetensors",
+    "path": "./models/checkpoints/BSSEquinoxILSemi_v20.safetensors"
+  },
+  "catponyDark_aniIlV20.safetensors": {
+    "url": "https://huggingface.co/sheffieldamanda/mymodels/resolve/main/catponyDark_aniIlV20.safetensors",
+    "path": "./models/checkpoints/catponyDark_aniIlV20.safetensors"
+  },
+  "divingIllustrious_v130VAE.safetensors": {
+    "url": "https://huggingface.co/sheffieldamanda/mymodels/resolve/main/divingIllustrious_v130VAE.safetensors",
+    "path": "./models/checkpoints/divingIllustrious_v130VAE.safetensors"
+  },
+  "dreamshaper_8.safetensors": {
+    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/dreamshaper_8.safetensors",
+    "path": "./models/checkpoints/dreamshaper_8.safetensors"
+  },
+  "duchesse_v15.safetensors": {
+    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/duchesse_v15.safetensors",
+    "path": "./models/checkpoints/duchesse_v15.safetensors"
+  },
+  "ghostmix_v20Bakedvae.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/ghostmix_v20Bakedvae.safetensors",
+    "path": "./models/checkpoints/ghostmix_v20Bakedvae.safetensors"
+  },
+  "hassakuXLIllustrious_v30.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/hassakuXLIllustrious_v30.safetensors",
+    "path": "./models/checkpoints/hassakuXLIllustrious_v30.safetensors"
+  },
+  "hyphoriaIlluNAI_v001.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/hyphoriaIlluNAI_v001.safetensors",
+    "path": "./models/checkpoints/hyphoriaIlluNAI_v001.safetensors"
+  },
   "illustrij_v17.safetensors": {
     "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/illustrij_v17.safetensors",
     "path": "./models/checkpoints/illustrij_v17.safetensors"
+  },
+  "illustrij_v18.safetensors": {
+    "url": "https://huggingface.co/sheffieldamanda/mymodels/resolve/main/illustrij_v18.safetensors",
+    "path": "./models/checkpoints/illustrij_v18.safetensors"
   },
   "ilustmix_v9.safetensors": {
     "url": "https://huggingface.co/taragi/likedmodels/resolve/main/ilustmix_v9.safetensors",
@@ -11,17 +79,37 @@
     "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/JANKUV5NSFWTrainedNoobai_v40.safetensors",
     "path": "./models/checkpoints/JANKUV5NSFWTrainedNoobai_v40.safetensors"
   },
-  "betterDaysIllustriousXL_illuXLV02BAKEDVAE.safetensors": {
-    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/betterDaysIllustriousXL_illuXLV02BAKEDVAE.safetensors",
-    "path": "./models/checkpoints/betterDaysIllustriousXL_illuXLV02BAKEDVAE.safetensors"
+  "JANKUV5NSFWTrainedNoobai_v40StyleA.safetensors": {
+    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/JANKUV5NSFWTrainedNoobai_v40StyleA.safetensors",
+    "path": "./models/checkpoints/JANKUV5NSFWTrainedNoobai_v40StyleA.safetensors"
   },
-  "hassakuXLIllustrious_v30.safetensors": {
-    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/hassakuXLIllustrious_v30.safetensors",
-    "path": "./models/checkpoints/hassakuXLIllustrious_v30.safetensors"
+  "JANKUV5NSFWTrainedNoobai_v50.safetensors": {
+    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/JANKUV5NSFWTrainedNoobai_v50.safetensors",
+    "path": "./models/checkpoints/JANKUV5NSFWTrainedNoobai_v50.safetensors"
   },
-  "hyphoriaIlluNAI_v001.safetensors": {
-    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/hyphoriaIlluNAI_v001.safetensors",
-    "path": "./models/checkpoints/hyphoriaIlluNAI_v001.safetensors"
+  "juggernautXL_ragnarokBy.safetensors": {
+    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/juggernautXL_ragnarokBy.safetensors",
+    "path": "./models/checkpoints/juggernautXL_ragnarokBy.safetensors"
+  },
+  "novaAnime3dXL_v40.safetensors": {
+    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/novaAnime3dXL_v40.safetensors",
+    "path": "./models/checkpoints/novaAnime3dXL_v40.safetensors"
+  },
+  "novaOrangeXL_reV20.safetensors": {
+    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/novaOrangeXL_reV20.safetensors",
+    "path": "./models/checkpoints/novaOrangeXL_reV20.safetensors"
+  },
+  "oneObsessionBranch_v6MatureEPS.safetensors": {
+    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/oneObsessionBranch_v6MatureEPS.safetensors",
+    "path": "./models/checkpoints/oneObsessionBranch_v6MatureEPS.safetensors"
+  },
+  "perfectdeliberate_XL.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/perfectdeliberate_XL.safetensors",
+    "path": "./models/checkpoints/perfectdeliberate_XL.safetensors"
+  },
+  "photon_v1.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/photon_v1.safetensors",
+    "path": "./models/checkpoints/photon_v1.safetensors"
   },
   "plantMilkModelSuite_walnut.safetensors": {
     "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/plantMilkModelSuite_walnut.safetensors",
@@ -35,44 +123,56 @@
     "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/prefectiousXLNSFW_v10.safetensors",
     "path": "./models/checkpoints/prefectiousXLNSFW_v10.safetensors"
   },
-  "perfectdeliberate_XL.safetensors": {
-    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/perfectdeliberate_XL.safetensors",
-    "path": "./models/checkpoints/perfectdeliberate_XL.safetensors"
+  "prefectPonyXL_v6.safetensors": {
+    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/prefectPonyXL_v6.safetensors",
+    "path": "./models/checkpoints/prefectPonyXL_v6.safetensors"
   },
-  "riMixPONYIllustrious_riMix.safetensors": {
-    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/riMixPONYIllustrious_riMix.safetensors",
-    "path": "./models/checkpoints/riMixPONYIllustrious_riMix.safetensors"
-  },
-  "ghostmix_v20Bakedvae.safetensors": {
-    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/ghostmix_v20Bakedvae.safetensors",
-    "path": "./models/checkpoints/ghostmix_v20Bakedvae.safetensors"
+  "ramthrustsNSFWPINK_alchemyMix169.safetensors": {
+    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/ramthrustsNSFWPINK_alchemyMix169.safetensors",
+    "path": "./models/checkpoints/ramthrustsNSFWPINK_alchemyMix169.safetensors"
   },
   "realcartoon3d_v18.safetensors": {
     "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/realcartoon3d_v18.safetensors",
     "path": "./models/checkpoints/realcartoon3d_v18.safetensors"
   },
-  "waiNsfwIllustrious_v1.4.safetensors": {
-    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/waiNsfwIllustrious_v1.4.safetensors",
-    "path": "./models/checkpoints/waiNsfwIllustrious_v1.4.safetensors"
-  },
   "realisticVisionV60B1_v51HyperVAE.safetensors": {
     "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/realisticVisionV60B1_v51HyperVAE.safetensors",
     "path": "./models/checkpoints/realisticVisionV60B1_v51HyperVAE.safetensors"
   },
-  "photon_v1.safetensors": {
-    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/photon_v1.safetensors",
-    "path": "./models/checkpoints/photon_v1.safetensors"
+  "riMixPONYIllustrious_riMix.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/riMixPONYIllustrious_riMix.safetensors",
+    "path": "./models/checkpoints/riMixPONYIllustrious_riMix.safetensors"
   },
-  "babesIllustriousBy_v50FP16.safetensors": {
-    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/babesIllustriousBy_v50FP16.safetensors",
-    "path": "./models/checkpoints/babesIllustriousBy_v50FP16.safetensors"
+  "smoothMixIllustrious2_illustrious2NoobaiV4.safetensors": {
+    "url": "https://huggingface.co/sheffieldamanda/mymodels/resolve/main/smoothMixIllustrious2_illustrious2NoobaiV4.safetensors",
+    "path": "./models/checkpoints/smoothMixIllustrious2_illustrious2NoobaiV4.safetensors"
   },
-  "dreamshaper_8.safetensors": {
-    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/dreamshaper_8.safetensors",
-    "path": "./models/checkpoints/dreamshaper_8.safetensors"
+  "unholyDesireMixSinister_v50.safetensors": {
+    "url": "https://huggingface.co/sheffieldamanda/mymodels/resolve/main/unholyDesireMixSinister_v50.safetensors",
+    "path": "./models/checkpoints/unholyDesireMixSinister_v50.safetensors"
   },
-  "juggernautXL_ragnarokBy.safetensors": {
-    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/juggernautXL_ragnarokBy.safetensors",
-    "path": "./models/checkpoints/juggernautXL_ragnarokBy.safetensors"
+  "visionaryILLUSTRIOUS_visionaryIllustrious.safetensors": {
+    "url": "https://huggingface.co/sheffieldamanda/mymodels/resolve/main/visionaryILLUSTRIOUS_visionaryIllustrious.safetensors",
+    "path": "./models/checkpoints/visionaryILLUSTRIOUS_visionaryIllustrious.safetensors"
+  },
+  "vixonSNSFWMilk_illust.safetensors": {
+    "url": "https://huggingface.co/sheffieldamanda/mymodels/resolve/main/vixonSNSFWMilk_illust.safetensors",
+    "path": "./models/checkpoints/"
+  },
+  "waiNsfwIllustrious_v1.4.safetensors": {
+    "url": "https://huggingface.co/Remi996/My_Collection/resolve/main/waiNsfwIllustrious_v1.4.safetensors",
+    "path": "./models/checkpoints/waiNsfwIllustrious_v1.4.safetensors"
+  },
+  "waiNSFWIllustrious_v150.safetensors": {
+    "url": "https://huggingface.co/taragi/likedmodels/resolve/main/waiNSFWIllustrious_v150.safetensors",
+    "path": "./models/checkpoints/waiNSFWIllustrious_v150.safetensors"
+  },
+  "waiMatureIllustrious_v10.safetensors": {
+    "url": "https://huggingface.co/sheffieldamanda/mymodels/resolve/main/waiMatureIllustrious_v10.safetensors",
+    "path": "./models/checkpoints/waiMatureIllustrious_v10.safetensors"
+  },
+  "waiMatureIllustrious_v20.safetensors": {
+    "url": "https://huggingface.co/sheffieldamanda/mymodels/resolve/main/waiMatureIllustrious_v20.safetensors",
+    "path": "./models/checkpoints/waiMatureIllustrious_v20.safetensors"
   }
 }
